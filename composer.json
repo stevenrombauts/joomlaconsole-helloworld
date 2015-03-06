@@ -3,6 +3,7 @@
   "license": "GPLv3",
   "description": "An Hello World command for the joomlatools/joomla-console tool.",
   "homepage": "https://github.com/stevenrombauts/joomla-console-helloworld",
+  "type": "joomla-console-plugin",
   "authors": [
     {
       "name": "Steven Rombauts",
